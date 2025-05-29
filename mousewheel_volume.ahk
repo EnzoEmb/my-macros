@@ -1,2 +1,2 @@
-#WheelDown::Volume_Down
-#WheelUp::Volume_Up
+#WheelDown::Send("{Volume_Down}")
+#WheelUp::Send("{Volume_Up}")
